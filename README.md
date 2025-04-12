@@ -1,5 +1,4 @@
-![logo] (![image](https://github.com/user-attachments/assets/40fa57a5-65b7-42c5-9a70-8e641248ff14)
-)
+![logo](https://github.com/Hajat72/Hajat72/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Hajat Hussain</h1>
 <h3 align="center">A passionate frontend developer from Gilgit Pakistan.</h3>
 
