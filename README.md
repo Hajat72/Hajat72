@@ -28,9 +28,28 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/hajat hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hajat hussain" height="30" width="40" /></a>
-<a href="https://instagram.com/hajat-hussain72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hajat-hussain72" height="30" width="40" /></a>
+  <!-- Facebook -->
+  <a href="https://facebook.com/hajathussain" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Hajat Hussain Facebook" height="30" width="40" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/hajat-hussain72" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="hajat-hussain72 Instagram" height="30" width="40" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/hajat-hussain/" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Hajat Hussain LinkedIn" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -78,11 +97,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajat72&show_icons=true&locale=en&layout=compact" alt="hajat72" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hajat72&show_icons=true&locale=en" alt="hajat72" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hajat72&" alt="hajat72" /></p>
 
